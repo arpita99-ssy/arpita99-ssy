@@ -5,5 +5,5 @@
 💻 Learning MATLAB & Python  
 
 🔹 Working on PID control and system modeling projects  
-📫 sahooarpita116@gmail.com
-
+🔗 LinkedIn: https://www.linkedin.com/in/arpita-priyadarshini-sahoo-42045a342  
+📫 Email: sahooarpita116@gmail.com

@@ -1,4 +1,4 @@
-# Hi, I'm Arpita 👋
+# Hi, I'm Arpita. 👋
 
 🎓 Engineering student  
 ⚙️ Interested in Control Systems  
